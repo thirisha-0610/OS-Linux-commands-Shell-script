@@ -919,6 +919,7 @@ Bhadrachalam
 Khammam
 
 ## OUTPUT
+![367221845-a5b30984-08a4-44e8-9208-20105171a0c3](https://github.com/user-attachments/assets/041142f6-65ee-46b2-a0cc-aaa2a735aa54)
 
 
 
@@ -934,6 +935,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
+![367221845-a5b30984-08a4-44e8-9208-20105171a0c3](https://github.com/user-attachments/assets/b705e55e-51ee-4400-9a02-2990bd78fd3a)
 
 cat forctype1.sh 
 ```bash
@@ -947,6 +949,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+![367222602-28a50bca-a0f9-48b4-8e32-736a52421e50](https://github.com/user-attachments/assets/3a4510cc-92ef-455e-947c-57b60b3e1923)
 
 cat fornested1.sh 
 ```bash
@@ -966,7 +969,8 @@ $ chmod 755 fornested1.sh
 $ ./fornested1.sh 
  ## OUTPUT
 
- 
+ ![367222671-f0959f28-d0ea-4596-af33-ce9ee42c98bd](https://github.com/user-attachments/assets/dd32ae9d-03f7-45b5-a13e-337f807f5ea9)
+
 cat forbreak.sh 
 ```bash
 #!/bin/bash
@@ -982,6 +986,7 @@ done
 echo "The for loop is completed“
 ```
 ## OUTPUT
+![367222816-2b9ff9eb-c421-43f7-be17-80534ae70235](https://github.com/user-attachments/assets/e9720aca-556d-4af1-bfc4-63f5189e2965)
 
 $ chmod 755 forbreak.sh
  
@@ -1007,7 +1012,8 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ ![367222979-7e0a5401-2cf3-4890-9a6b-28f68bab86d4](https://github.com/user-attachments/assets/0ac87190-a1bf-4034-a266-d151c166db2c)
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1021,6 +1027,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+![367223539-bc316ef4-2b6c-4eac-8cb4-62f1cd22b96e](https://github.com/user-attachments/assets/18af2b0e-4cfc-4aaf-bb97-126c789628e8)
 
 
  cat exread1.sh
@@ -1034,6 +1041,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
+![367223623-0058d1db-7642-4214-b403-2feda95c8ec3](https://github.com/user-attachments/assets/4652bcf4-de5e-46f6-8f53-988fece8117e)
 
 
 $ ./exread1.sh 
@@ -1054,6 +1062,8 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+![367223782-a64e3dea-a0b2-4ef6-87dc-ce5586af343d](https://github.com/user-attachments/assets/27f8f964-0f4b-471f-bbe2-a5df7e74277f)
+
  ./funcex.sh 
 
  
@@ -1072,7 +1082,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ ![367223998-ed654d0b-6131-4054-9315-07658e9fbd95](https://github.com/user-attachments/assets/b9f522ff-18dc-4915-b784-88c593bf116f)
+
  cat argshift1.sh
 ```bash
  #/bin/bash 
@@ -1089,7 +1100,8 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+ ![367224148-496372ba-f016-4811-b096-d4c8346fe431](https://github.com/user-attachments/assets/56f185d3-c4c9-45ed-a12d-23e53efc91a7)
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
@@ -1102,7 +1114,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+ ![367224273-5a87aa69-a179-43b9-bcd7-ef646c9cefef](https://github.com/user-attachments/assets/b140fe9a-9a9f-4ae9-b6fc-60c4f09514bc)
+
  
 cat > nc.awk
 ```bash
@@ -1133,7 +1146,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+ ![367224497-5a974231-3dca-4896-a728-9f7c2df00e26](https://github.com/user-attachments/assets/69bed850-7e60-459b-911d-3089821e7a20)
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1160,6 +1174,7 @@ else
 fi
 ```
 ## OUTPUT 
+![367224574-715391d3-abad-4f7b-905f-e2b063b2bca0](https://github.com/user-attachments/assets/dfe2b770-6374-4445-a87b-70551156f294)
 
 
 # RESULT:
